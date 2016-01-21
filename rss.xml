@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[True Quit]]></title>
+        <description><![CDATA[True Quit]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Jan 2016 21:51:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why True Quit?]]></title>
+            <description><![CDATA[<article><h1>Why True Quit?</h1><p>The reason why many smokers have failed in their attempts to quit is because they have not clearly understood the problems of quitting.</p></article>]]></description>
+            <link>undefined785cf990-35fc-4d8c-9635-d694facdc861/index.html</link>
+            <guid isPermaLink="false">785cf990-35fc-4d8c-9635-d694facdc861</guid>
+            <pubDate>Thu, 21 Jan 2016 21:51:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
