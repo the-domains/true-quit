@@ -1,0 +1,28 @@
+name: True Quit
+favicon: null
+layout_spectrum: 0.5623754886910319
+typography_spectrum: 0.05757147469557822
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.15920217521488667
+  lightness: 0.9853095491416752
+  saturation: 0.5370069360360503
+  rhythmicContrast: 0.9225765673909336
+purpose: []
