@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[True Quit]]></title>
         <description><![CDATA[True Quit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/true-quit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 21:51:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 21:52:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/true-quit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Myths About Quitting]]></title>
+            <description><![CDATA[<article><h1>Myths About Quitting</h1><p>As the saying goes,"It's easy when you know how."When it comes to quitting smoking the opposite is also true. It's only hard when you don't know how!</p></article>]]></description>
+            <link>https://thegrid.ai/true-quit/9515c299-e258-44f8-8492-6ecf8d78edd2/index.html</link>
+            <guid isPermaLink="false">9515c299-e258-44f8-8492-6ecf8d78edd2</guid>
+            <pubDate>Thu, 21 Jan 2016 21:52:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why True Quit?]]></title>
             <description><![CDATA[<article><h1>Why True Quit?</h1><p>The reason why many smokers have failed in their attempts to quit is because they have not clearly understood the problems of quitting.</p></article>]]></description>
-            <link>undefined785cf990-35fc-4d8c-9635-d694facdc861/index.html</link>
+            <link>https://thegrid.ai/true-quit/785cf990-35fc-4d8c-9635-d694facdc861/index.html</link>
             <guid isPermaLink="false">785cf990-35fc-4d8c-9635-d694facdc861</guid>
             <pubDate>Thu, 21 Jan 2016 21:51:37 GMT</pubDate>
         </item>
